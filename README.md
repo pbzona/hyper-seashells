@@ -1,4 +1,4 @@
-# Seashells for [Hyper](https://hyper.is/)
+# Seashells for Hyper
 
 ![Seashells Hyper theme](https://s3.amazonaws.com/hyper-seashells-screenshots/seashells.png)
 
@@ -8,6 +8,7 @@ Other tools used in the screenshot but not included in the theme:
 - [bullet-train](https://github.com/caiogondim/bullet-train.zsh)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 - [tmux](https://github.com/tmux/tmux)
+- [Dank Mono](https://dank.sh/)
 
 Based on the Seashells theme from [iTerm2 Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes).
 
