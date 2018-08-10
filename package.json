@@ -1,6 +1,6 @@
 {
   "name": "hyper-seashells-theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A seashells theme for the Hyper terminal",
   "main": "index.js",
   "scripts": {
