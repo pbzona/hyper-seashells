@@ -1,0 +1,11 @@
+{
+  "name": "hyper-seashells",
+  "version": "1.0.0",
+  "description": "A seashells theme for the Hyper terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phil Zona",
+  "license": "MIT"
+}
