@@ -1,4 +1,4 @@
-# Seashells for Hyper
+# Seashells for [Hyper](https://hyper.is/)
 
 ![Seashells Hyper theme](https://s3.amazonaws.com/hyper-seashells-screenshots/seashells.png)
 
@@ -13,7 +13,7 @@ Based on the Seashells theme from [iTerm2 Color Schemes](https://github.com/mbad
 
 ## Installation
 
-Add `hyper-seashells` to the plugins list in your `~/.hyper.js` config file.
+Add `hyper-seashells-theme` to the plugins list in your `~/.hyper.js` config file.
 
 ## License
 
